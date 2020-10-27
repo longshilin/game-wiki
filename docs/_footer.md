@@ -5,4 +5,4 @@
 
 ---
 
-Maintained by [longshilin wiki-template](https://github.com/longshilin/wiki-template/). Proudly published with [Docsify](https://docsify.js.io)
+Maintained by [longshilin game-wiki](https://github.com/longshilin/game-wiki/). Proudly published with [Docsify](https://docsify.js.io)
