@@ -287,6 +287,3 @@ Package authors can help the Git LFS client locate the LFS Server by providing i
  lfsurl = ssh://git@HOSTNAME/path/to/repo.git
 
 If the repository contains a `.lfsconfig` file, make sure you include it in the `.npmignore` file to avoid including it in published releases of the package.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY0MzgxMDVdfQ==
--->
