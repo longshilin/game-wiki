@@ -8,4 +8,5 @@
 
 - articles
 	- [改善软件开发游戏的50个技巧](articles/50-tips-improving-your-software-development-game.md)
+	- [](articles/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources.md)
 
