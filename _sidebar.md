@@ -6,3 +6,6 @@
   - [Unity's Package Manager Git dependencies](Packages/Project-Manifest-Git-Dependencies.md)
   - [Creating custom packages](https://docs.unity3d.com/Manual/CustomPackages.html)
 
+- articles
+	- [改善软件开发游戏的50个技巧](articles/50-tips-improving-your-software-development-game.md)
+
